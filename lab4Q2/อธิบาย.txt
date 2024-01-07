@@ -1,0 +1,3 @@
+ใช้ interface Segregation principle โดยที่ สร้าง ICustomer เป็น interface class เพื่อมาทำ
+createmail and createborshue methodเพื่อให้ประเภทลูกค้าต่างๆ ไปใช้
+ส่วน IcustomerFactory จะทำเพื่อในส่วนของ mail and brochue แบบของประเภทลูกค้า
